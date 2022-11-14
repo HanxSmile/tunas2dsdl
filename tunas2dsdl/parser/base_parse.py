@@ -15,6 +15,9 @@ def test_test2():
 def test_test2():
     pass
 
+def test_test3():
+    pass
+
 
 class BaseParse:
     INSTANCE_SEG_ANN_TYPE = "polygon"
