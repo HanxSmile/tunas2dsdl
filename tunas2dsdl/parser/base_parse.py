@@ -7,7 +7,8 @@ from tqdm import tqdm
 
 def test_test():
     pass
-
+def pr_test():
+    pass
 
 class BaseParse:
     INSTANCE_SEG_ANN_TYPE = "polygon"
