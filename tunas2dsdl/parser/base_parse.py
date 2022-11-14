@@ -9,6 +9,13 @@ def test_test():
     pass
 
 
+def test_test2():
+    pass
+
+def test_test2():
+    pass
+
+
 class BaseParse:
     INSTANCE_SEG_ANN_TYPE = "polygon"
     DETECTION_ANN_TYPE = "box2d"
