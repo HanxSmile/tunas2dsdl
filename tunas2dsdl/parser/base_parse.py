@@ -5,6 +5,9 @@ from collections import defaultdict
 from ..general import ClassDomain, Label
 from tqdm import tqdm
 
+def test_test():
+    pass
+
 
 class BaseParse:
     INSTANCE_SEG_ANN_TYPE = "polygon"
