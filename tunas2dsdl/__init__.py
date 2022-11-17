@@ -17,3 +17,7 @@ __all__ = [
     "OptionEatAll",
     "__version__",
 ]
+
+
+def func_a():
+    pass
